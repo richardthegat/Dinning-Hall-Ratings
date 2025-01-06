@@ -8,24 +8,31 @@ representatives for actionable insights.
 Survey Details
 
 Participants: 67 students
+
 Freshman: 25%
+
 Sophomore: 48%
+
 Junior: 22%
+
 Senior: 4%
 
 Questions:
+
 What is your student classification?
+
 On a scale of 1 to 10, how would you rate the dining hall food?
 
 Key Findings 
 
 Ratings:
+
 Range: 3 to 9
-Mean: 5.93
+
+Mean: 5.
+
 Median & Mode: 6
+
 Standard Deviation: 1.53
 
-Conclusion
 
-Overall, sentiment regaring dinning hall food at WIU is pretty balanced. There is certainly room for improvement, but based on the survey,
-it is solid enough.
