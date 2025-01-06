@@ -1,7 +1,7 @@
 This repository contains the results and analysis of a survey I conducted to evaluate students' perceptions of the dining hall food at 
 Western Illinois University (WIU). The study aimed to 1) See what students actually think about our dinning hall food and 2) Understand
 whether students' negative feedback about campus food reflects genuine dissatisfaction or it's all just fluff. Results are represented
-using several tabling and graphing tools, as well as some R code(Both are attached in this repository). I then sent my results to sudexo
+using tabling and graphing tools on excel, as well as some R code(Both are attached in this repository). I then sent my results to sudexo
 representatives for actionable insights. 
 
 
